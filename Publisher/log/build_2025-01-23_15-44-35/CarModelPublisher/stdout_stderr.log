@@ -1,0 +1,22 @@
+running egg_info
+writing ../build/CarModelPublisher/CarModelPublisher.egg-info/PKG-INFO
+writing dependency_links to ../build/CarModelPublisher/CarModelPublisher.egg-info/dependency_links.txt
+writing entry points to ../build/CarModelPublisher/CarModelPublisher.egg-info/entry_points.txt
+writing requirements to ../build/CarModelPublisher/CarModelPublisher.egg-info/requires.txt
+writing top-level names to ../build/CarModelPublisher/CarModelPublisher.egg-info/top_level.txt
+reading manifest file '../build/CarModelPublisher/CarModelPublisher.egg-info/SOURCES.txt'
+writing manifest file '../build/CarModelPublisher/CarModelPublisher.egg-info/SOURCES.txt'
+running build
+running build_py
+copying CarModelPublisher/CarModelPublisher.py -> /home/admin/Project/ROS/Publisher/build/CarModelPublisher/build/lib/CarModelPublisher
+running install
+running install_lib
+copying /home/admin/Project/ROS/Publisher/build/CarModelPublisher/build/lib/CarModelPublisher/CarModelPublisher.py -> /home/admin/Project/ROS/Publisher/install/CarModelPublisher/lib/python3.12/site-packages/CarModelPublisher
+byte-compiling /home/admin/Project/ROS/Publisher/install/CarModelPublisher/lib/python3.12/site-packages/CarModelPublisher/CarModelPublisher.py to CarModelPublisher.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/admin/Project/ROS/Publisher/install/CarModelPublisher/lib/python3.12/site-packages/CarModelPublisher-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../build/CarModelPublisher/CarModelPublisher.egg-info to /home/admin/Project/ROS/Publisher/install/CarModelPublisher/lib/python3.12/site-packages/CarModelPublisher-0.0.0-py3.12.egg-info
+running install_scripts
+Installing CarModelPublisher script to /home/admin/Project/ROS/Publisher/install/CarModelPublisher/lib/CarModelPublisher
+writing list of installed files to '/home/admin/Project/ROS/Publisher/build/CarModelPublisher/install.log'

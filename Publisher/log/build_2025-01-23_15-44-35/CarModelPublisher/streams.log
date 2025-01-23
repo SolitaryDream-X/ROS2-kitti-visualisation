@@ -1,0 +1,24 @@
+[0.453s] Invoking command in '/home/admin/Project/ROS/Publisher/CarModelPublisher': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/admin/Project/ROS/Publisher/build/CarModelPublisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/admin/Project/ROS/Publisher/install/CarModelPublisher/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/CarModelPublisher build --build-base /home/admin/Project/ROS/Publisher/build/CarModelPublisher/build install --record /home/admin/Project/ROS/Publisher/build/CarModelPublisher/install.log --single-version-externally-managed install_data
+[0.577s] running egg_info
+[0.585s] writing ../build/CarModelPublisher/CarModelPublisher.egg-info/PKG-INFO
+[0.585s] writing dependency_links to ../build/CarModelPublisher/CarModelPublisher.egg-info/dependency_links.txt
+[0.585s] writing entry points to ../build/CarModelPublisher/CarModelPublisher.egg-info/entry_points.txt
+[0.585s] writing requirements to ../build/CarModelPublisher/CarModelPublisher.egg-info/requires.txt
+[0.585s] writing top-level names to ../build/CarModelPublisher/CarModelPublisher.egg-info/top_level.txt
+[0.600s] reading manifest file '../build/CarModelPublisher/CarModelPublisher.egg-info/SOURCES.txt'
+[0.600s] writing manifest file '../build/CarModelPublisher/CarModelPublisher.egg-info/SOURCES.txt'
+[0.600s] running build
+[0.601s] running build_py
+[0.601s] copying CarModelPublisher/CarModelPublisher.py -> /home/admin/Project/ROS/Publisher/build/CarModelPublisher/build/lib/CarModelPublisher
+[0.601s] running install
+[0.604s] running install_lib
+[0.612s] copying /home/admin/Project/ROS/Publisher/build/CarModelPublisher/build/lib/CarModelPublisher/CarModelPublisher.py -> /home/admin/Project/ROS/Publisher/install/CarModelPublisher/lib/python3.12/site-packages/CarModelPublisher
+[0.612s] byte-compiling /home/admin/Project/ROS/Publisher/install/CarModelPublisher/lib/python3.12/site-packages/CarModelPublisher/CarModelPublisher.py to CarModelPublisher.cpython-312.pyc
+[0.617s] running install_data
+[0.617s] running install_egg_info
+[0.625s] removing '/home/admin/Project/ROS/Publisher/install/CarModelPublisher/lib/python3.12/site-packages/CarModelPublisher-0.0.0-py3.12.egg-info' (and everything under it)
+[0.626s] Copying ../build/CarModelPublisher/CarModelPublisher.egg-info to /home/admin/Project/ROS/Publisher/install/CarModelPublisher/lib/python3.12/site-packages/CarModelPublisher-0.0.0-py3.12.egg-info
+[0.626s] running install_scripts
+[0.688s] Installing CarModelPublisher script to /home/admin/Project/ROS/Publisher/install/CarModelPublisher/lib/CarModelPublisher
+[0.688s] writing list of installed files to '/home/admin/Project/ROS/Publisher/build/CarModelPublisher/install.log'
+[0.704s] Invoked command in '/home/admin/Project/ROS/Publisher/CarModelPublisher' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/admin/Project/ROS/Publisher/build/CarModelPublisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/admin/Project/ROS/Publisher/install/CarModelPublisher/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/CarModelPublisher build --build-base /home/admin/Project/ROS/Publisher/build/CarModelPublisher/build install --record /home/admin/Project/ROS/Publisher/build/CarModelPublisher/install.log --single-version-externally-managed install_data

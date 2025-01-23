@@ -1,0 +1,2 @@
+[console_scripts]
+CarModelPublisher = CarModelPublisher.CarModelPublisher:main
