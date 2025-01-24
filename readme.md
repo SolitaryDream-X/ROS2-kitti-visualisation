@@ -16,7 +16,7 @@
 
 ## 项目结构
 
-![result](https://github.com/SolitaryDream-X/ROS2-kitti-visualisation/blob/main/img/tree.png?raw=true)
+![tree](https://github.com/SolitaryDream-X/ROS2-kitti-visualisation/blob/main/img/tree.png?raw=true)
 
 ## 最终效果
 
