@@ -1,0 +1,22 @@
+running egg_info
+writing ../build/kitti_visualisation/kitti_visualisation.egg-info/PKG-INFO
+writing dependency_links to ../build/kitti_visualisation/kitti_visualisation.egg-info/dependency_links.txt
+writing entry points to ../build/kitti_visualisation/kitti_visualisation.egg-info/entry_points.txt
+writing requirements to ../build/kitti_visualisation/kitti_visualisation.egg-info/requires.txt
+writing top-level names to ../build/kitti_visualisation/kitti_visualisation.egg-info/top_level.txt
+reading manifest file '../build/kitti_visualisation/kitti_visualisation.egg-info/SOURCES.txt'
+writing manifest file '../build/kitti_visualisation/kitti_visualisation.egg-info/SOURCES.txt'
+running build
+running build_py
+copying kitti_visualisation/kitti_visualisation.py -> /home/admin/Project/ROS/Publisher/build/kitti_visualisation/build/lib/kitti_visualisation
+running install
+running install_lib
+copying /home/admin/Project/ROS/Publisher/build/kitti_visualisation/build/lib/kitti_visualisation/kitti_visualisation.py -> /home/admin/Project/ROS/Publisher/install/kitti_visualisation/lib/python3.12/site-packages/kitti_visualisation
+byte-compiling /home/admin/Project/ROS/Publisher/install/kitti_visualisation/lib/python3.12/site-packages/kitti_visualisation/kitti_visualisation.py to kitti_visualisation.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/home/admin/Project/ROS/Publisher/install/kitti_visualisation/lib/python3.12/site-packages/kitti_visualisation-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../build/kitti_visualisation/kitti_visualisation.egg-info to /home/admin/Project/ROS/Publisher/install/kitti_visualisation/lib/python3.12/site-packages/kitti_visualisation-0.0.0-py3.12.egg-info
+running install_scripts
+Installing kitti_visualisation script to /home/admin/Project/ROS/Publisher/install/kitti_visualisation/lib/kitti_visualisation
+writing list of installed files to '/home/admin/Project/ROS/Publisher/build/kitti_visualisation/install.log'

@@ -1,4 +1,0 @@
-source;share/CarModelPublisher/hook/pythonpath.dsv
-source;share/CarModelPublisher/hook/pythonpath.sh
-source;share/CarModelPublisher/hook/ament_prefix_path.dsv
-source;share/CarModelPublisher/hook/ament_prefix_path.sh

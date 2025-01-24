@@ -1,0 +1,24 @@
+[0.427s] Invoking command in '/home/admin/Project/ROS/Publisher/kitti_visualisation': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/admin/Project/ROS/Publisher/build/kitti_visualisation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/admin/Project/ROS/Publisher/install/kitti_visualisation/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/kitti_visualisation build --build-base /home/admin/Project/ROS/Publisher/build/kitti_visualisation/build install --record /home/admin/Project/ROS/Publisher/build/kitti_visualisation/install.log --single-version-externally-managed install_data
+[0.554s] running egg_info
+[0.561s] writing ../build/kitti_visualisation/kitti_visualisation.egg-info/PKG-INFO
+[0.561s] writing dependency_links to ../build/kitti_visualisation/kitti_visualisation.egg-info/dependency_links.txt
+[0.561s] writing entry points to ../build/kitti_visualisation/kitti_visualisation.egg-info/entry_points.txt
+[0.561s] writing requirements to ../build/kitti_visualisation/kitti_visualisation.egg-info/requires.txt
+[0.561s] writing top-level names to ../build/kitti_visualisation/kitti_visualisation.egg-info/top_level.txt
+[0.577s] reading manifest file '../build/kitti_visualisation/kitti_visualisation.egg-info/SOURCES.txt'
+[0.578s] writing manifest file '../build/kitti_visualisation/kitti_visualisation.egg-info/SOURCES.txt'
+[0.578s] running build
+[0.578s] running build_py
+[0.578s] copying kitti_visualisation/kitti_visualisation.py -> /home/admin/Project/ROS/Publisher/build/kitti_visualisation/build/lib/kitti_visualisation
+[0.578s] running install
+[0.582s] running install_lib
+[0.589s] copying /home/admin/Project/ROS/Publisher/build/kitti_visualisation/build/lib/kitti_visualisation/kitti_visualisation.py -> /home/admin/Project/ROS/Publisher/install/kitti_visualisation/lib/python3.12/site-packages/kitti_visualisation
+[0.590s] byte-compiling /home/admin/Project/ROS/Publisher/install/kitti_visualisation/lib/python3.12/site-packages/kitti_visualisation/kitti_visualisation.py to kitti_visualisation.cpython-312.pyc
+[0.594s] running install_data
+[0.594s] running install_egg_info
+[0.602s] removing '/home/admin/Project/ROS/Publisher/install/kitti_visualisation/lib/python3.12/site-packages/kitti_visualisation-0.0.0-py3.12.egg-info' (and everything under it)
+[0.603s] Copying ../build/kitti_visualisation/kitti_visualisation.egg-info to /home/admin/Project/ROS/Publisher/install/kitti_visualisation/lib/python3.12/site-packages/kitti_visualisation-0.0.0-py3.12.egg-info
+[0.603s] running install_scripts
+[0.668s] Installing kitti_visualisation script to /home/admin/Project/ROS/Publisher/install/kitti_visualisation/lib/kitti_visualisation
+[0.668s] writing list of installed files to '/home/admin/Project/ROS/Publisher/build/kitti_visualisation/install.log'
+[0.686s] Invoked command in '/home/admin/Project/ROS/Publisher/kitti_visualisation' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/admin/Project/ROS/Publisher/build/kitti_visualisation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/admin/Project/ROS/Publisher/install/kitti_visualisation/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/kitti_visualisation build --build-base /home/admin/Project/ROS/Publisher/build/kitti_visualisation/build install --record /home/admin/Project/ROS/Publisher/build/kitti_visualisation/install.log --single-version-externally-managed install_data

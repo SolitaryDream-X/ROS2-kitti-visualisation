@@ -1,0 +1,2 @@
+[console_scripts]
+kitti_visualisation = kitti_visualisation.kitti_visualisation:main
