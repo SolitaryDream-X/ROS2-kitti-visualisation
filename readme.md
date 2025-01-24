@@ -4,7 +4,7 @@
 
 ## 测试环境
 
-- 系统：Garuda（宿主机）+ Ubuntu 24.04LTS（distrobox）
+- 系统：Garuda（宿主机）+ Ubuntu 24.04LTS（[distrobox](https://distrobox.it/) 容器）
 
 - ROS2版本：jazzy
 
