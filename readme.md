@@ -14,8 +14,26 @@
 
 ![distrobox-env](https://github.com/SolitaryDream-X/ROS2-kitti-visualisation/blob/main/img/distrobox-env.png?raw=true)
 
+- 项目结构
+
 ![result](https://github.com/SolitaryDream-X/ROS2-kitti-visualisation/blob/main/img/tree.png?raw=true)
 
 - 最终效果
 
 ![result](https://github.com/SolitaryDream-X/ROS2-kitti-visualisation/blob/main/img/result.png?raw=true)
+
+## 运行
+
+- 请先修改源码里的数据路径为你使用的路径
+
+- 在`Publisher`文件夹下打开终端
+
+- `source`你的ROS2(类似这样`source /opt/ros/jazzy/setup.zsh`)
+
+- 执行`colcon build`
+
+- 执行`source ./install/setup.zsh`(或者是`source ./install/setup.bash`)
+
+- 执行`ros2 run kitti_visualisation kitti_visualisation`
+
+- 打开rviz2,添加topic即可看到效果
