@@ -22,6 +22,8 @@
 
 ![result](https://github.com/SolitaryDream-X/ROS2-kitti-visualisation/blob/main/img/result.png?raw=true)
 
+[演示视频(bilibili)](https://www.bilibili.com/video/BV1pmfJYUEbX/?share_source=copy_web&vd_source=16b9a6caf533993510f852ff67f71551)
+
 ## 运行
 
 - 请先修改源码里的数据路径为你使用的路径
