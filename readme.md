@@ -6,7 +6,7 @@
 
 - 系统：Garuda（宿主机）+ Ubuntu 24.04LTS（[distrobox](https://distrobox.it/) 容器）
 
-- ROS2版本：jazzy
+- ROS2版本：[jazzy](https://docs.ros.org/en/jazzy/index.html#)
 
 - Python版本：3.12.8
 
