@@ -19,10 +19,13 @@ import ament_index_python
 import pandas as pd
 from collections import deque
 
+#项目所在路径
+PROJECT_PATH='/home/admin/Project/ROS/'
+
 #所需数据路径
-DATA_PATH='/home/admin/Project/ROS/kitti-data/2011_09_26/2011_09_26_drive_0005_sync'
-TRACKING_DATA_PATH='/home/admin/Project/ROS/kitti-data/training/label_02/0000.txt'
-CALIB_PATH='/home/admin/Project/ROS/kitti-data/2011_09_26/'
+DATA_PATH=PROJECT_PATH+'kitti-data/2011_09_26/2011_09_26_drive_0005_sync'
+TRACKING_DATA_PATH=PROJECT_PATH+'kitti-data/training/label_02/0000.txt'
+CALIB_PATH=PROJECT_PATH+'kitti-data/2011_09_26/'
 MODEL_PATH = f'file:///home/admin/Project/ROS/kitti-data/CarModel/A.stl'
 
 dtype=PointField.FLOAT32
