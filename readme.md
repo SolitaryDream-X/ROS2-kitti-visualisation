@@ -30,11 +30,11 @@
 
 - 在`Publisher`文件夹下打开终端
 
-- `source`你的ROS2(类似这样`source /opt/ros/jazzy/setup.zsh`)
+- `source`你的ROS2(类似这样`source /opt/ros/jazzy/setup.zsh`,使用`bash`是`source /opt/ros/jazzy/setup.bash`)
 
 - 执行`colcon build`
 
-- 执行`source ./install/setup.zsh`(或者是`source ./install/setup.bash`)
+- 执行`source ./install/setup.zsh`(或者使用`bash`是`source ./install/setup.bash`)
 
 - 执行`ros2 run kitti_visualisation kitti_visualisation`
 
